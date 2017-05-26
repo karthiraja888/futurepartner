@@ -1,0 +1,29 @@
+img{
+height: 640;
+    
+}
+body{
+    background-image: url(back/couple-1363953_960_720-20160723183253.jpg)
+}
+a{
+    color: deeppink;
+    font-size: 50px;
+    border-style: dotted;
+    border-color: yellow;
+    margin-left: 27%;
+    
+}
+p{
+    color: snow;
+    font-size: 30px;
+    margin-left: 20%;
+}
+h2{
+    font-size: 100px;
+    color:darkviolet;
+}
+.index{
+    margin-left:30%;
+    width: 300px;
+    height: auto;
+}
